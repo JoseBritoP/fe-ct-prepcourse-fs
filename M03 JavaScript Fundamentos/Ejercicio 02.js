@@ -2,7 +2,7 @@
 /*2️⃣ EJERCICIO 02 2️⃣*/
 
 function devolverString(string) {
-   // Debe retornar un string. 
+   // Debe retornar un string.
    // Tu código:
 }
 
